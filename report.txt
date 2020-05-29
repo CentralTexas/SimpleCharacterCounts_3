@@ -1,0 +1,8 @@
+Begin Vowel Histogram
+a: 551
+e: 821
+i: 438
+o: 730
+u: 230
+y: 79
+End Vowel Histogram
